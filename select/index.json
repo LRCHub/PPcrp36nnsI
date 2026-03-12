@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "チロルとポルノ",
+  "base_artist": "クリープハイプ",
+  "createdAt": "2026-03-12T20:15:00.653819Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "チロルとポルノ",
+      "artist": "Creep Hyp",
+      "has_synced": false,
+      "path": "select/01_チロルとポルノ_Creep_Hyp.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "チロルとポルノ - Tirol to Porno",
+      "artist": "CreepHyp",
+      "has_synced": true,
+      "path": "select/02_チロルとポルノ_-_Tirol_to_Porno_CreepHyp.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "チロルとポルノ",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_01_チロルとポルノ_クリープハイプ.txt"
+    }
+  ]
+}
